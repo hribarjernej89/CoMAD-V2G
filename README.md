@@ -2,8 +2,6 @@
 
 CoMAD is a Multi-agent Reinforcement Learning (MARL) framework designed to intelligently manage charging and discharging cycles of Vehicle-to-Grid (V2G)-enabled electric vehicles within energy communities that utilize a shared energy storage system (ESS). By dynamically adapting to fluctuating energy demands, renewable generation, and electricity prices, CoMAD ensures optimal energy efficiency, reduces grid dependency, and minimizes costs without compromising user comfort. The solution has been validated through realistic simulations using real-world household consumption patterns, solar generation data, electric vehicle behavior, and electricity pricing in Slovenia, demonstrating significant improvements in energy autonomy and cost reductions compared to traditional and other intelligent methods.
 
-🚗⚡️
-
 A quick introduction of the minimal setup you need to get a hello world up & running. Required when the project is intended to be distributed as a software package.
 
 ## ⚙️ How to Run the Simulation
