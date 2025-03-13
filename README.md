@@ -92,6 +92,29 @@ pip install numpy icecream torch==2.2.2
 pip install icecream==2.1.3 torch==2.2.2
 ```
 
+## 📥 Downloads
+
+Pre-trained agents and datasets for quick setup and evaluation are provided separately due to file size limitations:
+
+### 🔸 Pre-trained Agents
+You can download pre-trained agent models, ready to use for evaluation without additional training:
+
+- [**Download Pre-trained Agents**](https://drive.google.com/file/d/1wWsglmejty9CwFDHQ3lUSmamsyXhgXGs/view?usp=drive_link)
+
+
+### Usage
+Extract pre-trained agents in the main directory before running the simulation.
+
+---
+
+### 📊 Datasets
+Realistic pre-generated datasets, including household consumption profiles, solar generation data, and EV usage patterns, are available:
+
+- [**Download Datasets**](https://drive.google.com/file/d/1_ikNFNosJTMon_98EWQOLPXcCNuCX9Yj/view?usp=drive_link)
+
+### Usage
+Extract datasets agents in the main directory before running the simulation.
+
 ## Licensing
 
 > The code in this project is licensed under MIT license.
